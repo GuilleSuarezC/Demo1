@@ -12,5 +12,6 @@ public class demo {
 		System.out.print("Changes for rebaseeeee.");
 		System.out.println("Commit 1 - exercise 4");
 		System.out.println("Commit 2 - exercise 4");
+		System.out.println("Commit 3 - exercise 4");		
 	}
 }

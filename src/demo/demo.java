@@ -11,6 +11,7 @@ public class demo {
 		System.err.print("Mods Master.");
 		System.out.print("Changes for rebaseeeee.");
 		System.out.print("Master commit 1 - exercise 4");
+		System.out.print("Master commit 2 - exercise 4");
 	}
 
 }

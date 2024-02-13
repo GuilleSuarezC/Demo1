@@ -11,6 +11,7 @@ public class demo {
 		System.err.print("Mods Master.");
 		System.out.print("Changes for rebase.");
 		System.err.print("Mods on masteren't");
+		System.out.println("Changes on ex3-again for rebase.");
 	}
 
 }

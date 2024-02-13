@@ -12,6 +12,7 @@ public class demo {
 		System.out.print("Changes for rebaseeeee.");
 		System.out.print("Master commit 1 - exercise 4");
 		System.out.print("Master commit 2 - exercise 4");
+		System.out.print("Master commit 3 - exercise 4");
 	}
 
 }

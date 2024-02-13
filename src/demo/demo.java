@@ -10,6 +10,7 @@ public class demo {
 		System.out.println("Mods on master.");
 		System.err.print("Mods Master.");
 		System.out.print("Changes for rebaseeeee.");
+		System.out.println("Commit 1 - exercise 4");
 	}
 
 }
